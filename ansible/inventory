@@ -1,0 +1,5 @@
+#
+# Place your jupyterhub machines (FQDN) in a group used as PBKDIR name
+#
+[private]
+my-private-hub.fqdn

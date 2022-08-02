@@ -1,0 +1,17 @@
+PBKDIR: private
+JPHOST: private.example.com
+JPIP: 192.168.1.1
+APIUSER: apiadmin
+APIPWD: MotDePasseTrèsCompliqué!!!##123
+#
+IP-WKSHP-Ansible102: 192.168.1.10
+SSHPORT-WKSHP-Ansible102: 16001
+HTTPPORT-WKSHP-Ansible102: 16051
+
+#LDAP Server
+LDAPSRV: "192.168.1.20 ldapsrv.example.com"
+LDAPSRVIP: "192.168.1.20"
+LDAPPWD: "MotDePasseTrèsCompliqué!!!##123$"
+LDAPPORT: "389"
+LDAPDMN: dc=example,dc=com
+
