@@ -1,0 +1,12 @@
+scripts/reset-*.sh
+scripts/create-*.sh
+scripts/cleanup-*.sh
+scripts/setup-*.sh
+scripts/post-*.sh
+scripts/*.shc
+scripts/*.x
+scripts/*.x.c
+scripts/*.sh.c
+scripts/*.sh.x.c
+ansible/*/pass/variables_*.yml
+*.sw?
