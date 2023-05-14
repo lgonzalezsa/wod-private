@@ -1,5 +1,7 @@
 # wod-private
-Potential Private configuration for WoD
+Example Private configuration for WoD
+
+This provide an example for creating your own cutomization layer on top of the public standard wod Backend / wod Notebooks content.
 
 Do not put any confidential data here as this is a public repository !!
 
